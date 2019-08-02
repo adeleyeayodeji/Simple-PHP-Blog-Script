@@ -20,11 +20,11 @@ Simple-PHP-Blog-Script
 == Installation ==
 
 1. Upload `Simple-PHP-Blog-Script` directory to the `/public html/` directory
-2. Create a database named 'blog' 
-3. Import the tables located at 'include\blog.sql directory.
+2. Create a database named `blog` 
+3. Import the tables located at `include\blog.sql` directory.
 3. Run the script from the front end and everything works.
-4. Admin url: admin/index.php
-4. Admin details: Username: admin Password: admin
+4. Admin url: `admin/index.php`
+4. Admin details: Username: `admin` Password: `admin`
 
 == Frequently Asked Questions ==
 
