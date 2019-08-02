@@ -2,6 +2,7 @@
 # Simple-PHP-Blog-Script
 
 === Simple-PHP-Blog-Script ===
+
 Contributors: Adeleye Ayodeji
 Tags: Blog
 Author URI: https://adeleyeayodeji.com/
