@@ -1,0 +1,853 @@
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 300px) {
+
+		.container{
+		width: 300px;
+	}
+	.nav1{
+		display: none;
+	}
+	#nav2{
+		display: block;
+	}
+		.featured1{
+		width: 100%;
+		height: 250px;
+	}
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 33%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 33%;
+		color: white;
+		padding: 5px;
+	}
+			/* Featured 2 responsive start here */
+	.featured2{
+	width: 100%;
+	border: 3px solid blueviolet;
+	margin-bottom: 10px;
+	margin-right: -7px;
+}
+.featured2.inner{
+	width: 100%;
+	height: auto;
+}
+.featured2.inner2{
+	width: 100%;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 100%;
+	height: auto;
+	margin-bottom: 5px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 100%;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+	width: 100%;
+}
+.body2 {
+	width: 100%;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.postside {
+    width: 100%;
+}
+
+.sidebar {
+
+    width: 100%;
+
+}
+	
+}
+
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 320px) {
+
+		.container{
+		width: 320px;
+	}
+	.nav1{
+		display: none;
+	}
+	#nav2{
+		display: block;
+	}
+		.featured1{
+		width: 100%;
+		height: 250px;
+	}
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 31.2%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 31.2%;
+		color: white;
+		padding: 5px;
+	}
+			/* Featured 2 responsive start here */
+	.featured2{
+	width: 100%;
+	border: 3px solid blueviolet;
+	margin-bottom: 10px;
+	margin-right: -7px;
+}
+.featured2.inner{
+	width: 100%;
+	height: auto;
+}
+.featured2.inner2{
+	width: 100%;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 100%;
+	height: auto;
+	margin-bottom: 5px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 100%;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+	width: 100%;
+}
+.body2 {
+	width: 100%;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.postside {
+    width: 100%;
+}
+
+.sidebar {
+
+    width: 100%;
+
+}
+	
+}
+
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 393px) {
+
+		.container{
+		width: 393px;
+	}
+.nav1{
+		display: none;
+	}
+	#nav2{
+		display: block;
+	}
+		.featured1{
+		width: 100%;
+		height: 250px;
+	}
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 30.2%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 30.2%;
+		color: white;
+		padding: 5px;
+	}
+			/* Featured 2 responsive start here */
+	.featured2{
+	width: 100%;
+	border: 3px solid blueviolet;
+	margin-bottom: 10px;
+	margin-right: -7px;
+}
+.featured2.inner{
+	width: 49.4%;
+	float: left;
+	height: auto;
+}
+.featured2.inner2{
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: left;
+	height: auto;
+	margin-bottom: 0px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+	width: 100%;
+}
+.body2 {
+	width: 100%;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.postside {
+    width: 100%;
+}
+
+.sidebar {
+
+    width: 100%;
+
+}
+	
+}
+
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 470px) {
+
+		.container{
+		width: 470px;
+	}
+.nav1{
+		display: none;
+	}
+	#nav2{
+		display: block;
+	}
+		.featured1{
+		width: 100%;
+		height: 250px;
+	}
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 25%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 25%;
+		color: white;
+		padding: 5px;
+	}
+			/* Featured 2 responsive start here */
+	.featured2{
+	width: 100%;
+	border: 3px solid blueviolet;
+	margin-bottom: 10px;
+	margin-right: -7px;
+}
+.featured2.inner{
+	width: 49.4%;
+	float: left;
+	height: auto;
+}
+.featured2.inner2{
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: left;
+	height: auto;
+	margin-bottom: 0px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+	width: 100%;
+}
+.body2 {
+	width: 100%;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.postside {
+    width: 100%;
+}
+
+.sidebar {
+
+    width: 100%;
+
+}
+	
+}
+
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 570px) {
+
+		.container{
+		width: 570px;
+	}
+	.mobilemenu{
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		text-align: center;
+		background: blueviolet;
+		color: white;
+		padding: 10px;
+	}
+	.nav1{
+		display: none;
+	}
+	#nav2{
+		display: block;
+	}
+		.featured1{
+		width: 100%;
+		height: 250px;
+	}
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 24%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 20.5%;
+		color: white;
+		padding: 5px;
+	}
+			/* Featured 2 responsive start here */
+	.featured2{
+	width: 100%;
+	border: 3px solid blueviolet;
+	margin-bottom: 10px;
+	margin-right: -7px;
+}
+.featured2.inner{
+	width: 49.4%;
+	float: left;
+	height: auto;
+}
+.featured2.inner2{
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: left;
+	height: auto;
+	margin-bottom: 0px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+    width: 50%;
+    float: left;
+}
+.body2 {
+    width: 40%;
+    float: right;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.postside {
+    width: 100%;
+}
+
+.sidebar {
+
+    width: 100%;
+
+}
+	
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+		.container{
+		width: 600px;
+	}
+
+	nav a {
+		padding: 0px; 
+		margin-right: 5px;
+		margin-left: 5px;
+	}
+	.nav1{
+		display: block;
+	}
+	#nav2{
+		display: none;
+	}
+		.featured1{
+		width: 100%;
+		height: 250px;
+	}
+
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 23%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 23%;
+		color: white;
+		padding: 5px;
+	}
+			/* Featured 2 responsive start here */
+	.featured2{
+	width: 100%;
+	border: 3px solid blueviolet;
+	margin-bottom: 10px;
+	margin-right: -7px;
+}
+.featured2.inner{
+	width: 49.4%;
+	float: left;
+	height: auto;
+}
+.featured2.inner2{
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: left;
+	height: auto;
+	margin-bottom: 0px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+    width: 50%;
+    float: left;
+}
+.body2 {
+    width: 40%;
+    float: right;
+    padding-top: 10px;
+      margin-bottom: 0px;
+}
+
+.postside {
+    width: 100%;
+}
+
+.sidebar {
+
+    width: 100%;
+
+}
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+		.container{
+		width: 768px;
+	}
+
+	nav a {
+		padding: 0px; 
+		margin-right: 17px;
+		margin-left: 17px;
+	}
+	.nav1{
+		display: block;
+	}
+	#nav2{
+		display: none;
+	}
+	.featured1{
+		width: 100%;
+		height: 250px;
+	}
+
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 17.8%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 17.8%;
+		color: white;
+		padding: 5px;
+	}
+		/* Featured 2 responsive start here */
+	.featured2{
+	width: 100%;
+	border: 3px solid blueviolet;
+	margin-bottom: 10px;
+	margin-right: -7px;
+}
+.featured2.inner{
+	width: 49.4%;
+	float: left;
+	height: auto;
+}
+.featured2.inner2{
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: left;
+	height: auto;
+	margin-bottom: 0px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 49.4%;
+	float: right;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+    width: 50%;
+    float: left;
+}
+.body2 {
+    width: 40%;
+    float: right;
+    padding-top: 10px;
+      margin-bottom: 0px;
+}
+.sidebar3{
+	margin-top: 0px;
+}
+
+.postside{
+	width: 50%;
+	float: left;
+	clear: both;
+}
+
+.sidebar{
+	width: 42%;
+    float: right;
+}
+	
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+	.container{
+		width: 992px;
+	}
+
+	nav a {
+		padding: 13px; 
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+	.nav1{
+		display: block;
+	}
+		#nav2{
+		display: none;
+	}
+	.featured1{
+		background-position: center top;
+	background-size: cover;background-repeat: no-repeat; 
+	height: 320px;border: 5px solid blueviolet;
+	width: 50%;
+	float: left;
+	margin-bottom: 10px;
+	}
+
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 38%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 38%;
+		color: white;
+		padding: 5px;
+	}
+		/* Featured 2 responsive start here */
+	.featured2{
+	width: 48%;
+	float: right;
+	border: 3px solid blueviolet;
+}
+.featured2.inner{
+	width: 100%;
+	height: auto;
+}
+.featured2.inner2{
+	width: 100%;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	width: 100%;
+	float: none;
+	border: 1px solid blueviolet;
+	margin-bottom: 0px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 100%;
+	float: none;
+	height: auto;
+}
+/* Post responsive start here */
+
+.body1 {
+    width: 50%;
+    float: left;
+}
+.body2 {
+    width: 40%;
+    float: right;
+    padding-top: 10px;
+      margin-bottom: 0px;
+}
+.sidebar3{
+	margin-top: 0px;
+}
+
+.postside{
+	width: 50%;
+	float: left;
+	clear: both;
+}
+
+.sidebar{
+	width: 42%;
+    float: right;
+}
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+	.container{
+		width: 1100px;
+	}
+
+	nav a {
+	 padding: 20.8px;
+	 margin-right: 20px;
+		margin-left: 20px;
+	}
+	.nav1{
+		display: block;
+	}
+		#nav2{
+		display: none;
+	}
+	.featured1{
+	background-position: center top;
+	background-size: cover;background-repeat: no-repeat; 
+	height: 320px;border: 5px solid blueviolet;
+	width: 50%;
+	float: left;
+	margin-bottom: 10px;
+	}
+
+	.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 38%;
+	color: white;
+	padding: 5px;
+}
+	.featuredtext:hover{
+		background: rgba(138, 43, 226, 0.7);
+		margin-top: 38%;
+		color: white;
+		padding: 5px;
+	}
+
+	/* Featured 2 responsive start here */
+	.featured2{
+	width: 48%;
+	float: right;
+	border: 3px solid blueviolet;
+}
+.featured2.inner{
+	width: 100%;
+	height: auto;
+}
+.featured2.inner2{
+	width: 100%;
+	height: auto;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	width: 100%;
+	float: none;
+	border: 1px solid blueviolet;
+	margin-bottom: 0px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+	width: 100%;
+	float: none;
+	height: auto;
+}
+
+/* Post responsive start here */
+
+.body1 {
+    width: 50%;
+    float: left;
+}
+.body2 {
+    width: 40%;
+    float: right;
+    padding-top: 10px;
+      margin-bottom: 0px;
+}
+.sidebar3{
+	margin-top: 0px;
+}
+
+.postside{
+	width: 50%;
+	float: left;
+	clear: both;
+}
+
+.sidebar{
+	width: 42%;
+    float: right;
+}
+
+} 

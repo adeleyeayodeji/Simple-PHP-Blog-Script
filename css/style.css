@@ -1,0 +1,561 @@
+body{
+	font-family: arial;
+	background: #ffe1e1;
+}
+.body2{
+	width: 40%;
+	float: right;
+	 padding-top: 10px;
+}
+.searchbox{
+	color: black;
+	font-family: calibri;
+	text-align: left;
+}
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1100px;
+		background: #ffe1e1;
+    padding: 10px;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+.ads:hover{
+	box-shadow: 1px 5px 5px 5px gray;
+}
+
+.share i{
+	font-size: 18px;
+margin: 5px;
+color: black;
+}
+.share i:hover{
+	font-size: 18px;
+margin: 5px;
+color: blueviolet;
+}
+.share{
+	border-bottom: 1px solid black;
+}
+
+marquee a {
+	text-decoration: none;
+	color: black;
+}
+marquee a:hover{
+	text-decoration: underline;
+}
+.logo{
+	width: 100px;
+	float: left;
+}
+.mainhead{
+	
+	text-align: center;
+	
+}
+.postdiv{
+	width: 40%;
+	float: left;
+}
+.mainhead h2 {
+	margin: 10px;
+	
+	    font-family: cursive;
+}
+.sidepic{
+	background-position: center top !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+        height: 100px;
+    width: 100%;
+    margin-left: 0px;
+    border: 2px solid blueviolet;margin-bottom: 10px;
+}
+.sidediv{
+	clear: both;
+	margin-bottom: 50px;
+	margin-top: 5px;
+}
+.sidedivp{
+	color: black;    
+	margin: 0px;
+    margin-left: 10px;
+    font-family: calibri;
+    margin-bottom: 10px;
+}
+.sidediva{
+	padding: 2px;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+.catlink{
+	text-decoration: none;
+	color: white;
+}
+.catp{
+	margin: 0px;
+	font-weight: bold;
+	margin-top: 7px;
+	background: black;
+	color: white;
+	width: 50%;
+	padding: 5px;
+	text-align: center;
+}
+.sidediv2{
+	width:60%;
+	float: right;
+}
+.sidedivsmall{
+	margin: 0px 0px 0px 10px;
+	background: black none repeat scroll 0% 0%;
+	color: white;
+	padding: 3px;
+	font-size: 9px;
+}
+.sidedivh3{
+	color: black;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-left: 10px;    margin-bottom: 0px;font-family: calibri;
+}
+
+.postthumbnail{
+	border: 8px solid white;
+	width: 100%;
+	box-shadow: 1px 5px 5px 5px blueviolet;
+	background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-size: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top !important;
+
+}
+
+.postmiside{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 100%;
+	margin-left: 0px;
+	border: 2px solid blueviolet;
+	margin-bottom: 10px;
+}
+.h2admin{
+	background: blueviolet;
+	color: white;
+	padding: 5px;
+	text-align: left;
+}
+.h2admin small {
+	float: right;
+	background: white;
+	color: blueviolet;
+	padding: 3px;
+}
+.postmiside:hover{
+	box-shadow: 1px 5px 5px 5px gray;
+}
+.adminpost:hover{
+	box-shadow: 1px 5px 5px 5px gray;
+}
+
+.postimagee:hover{
+	box-shadow: 1px 5px 5px 5px gray;
+}
+p .link{
+	background: blueviolet;
+	padding: 5px;
+	color: white;
+	text-decoration: none;
+}
+.belowpost{
+	margin: 0px;
+	background: black none repeat scroll 0% 0%;
+	color: white;
+	padding: 3px;
+	font-size: 10px;
+}
+
+.postimage:hover{
+	box-shadow: 1px 5px 5px 5px gray;
+}
+.sidebarimage{
+	background-position: center top !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 230px;
+    width: 90%;
+    padding: 20px;
+    border: 5px solid blueviolet;
+}
+.postimage{
+	padding: 20px;
+	border: 5px solid blueviolet;
+}
+
+.linktag{
+	background: blueviolet;
+	color: white;
+	text-align: center;
+	width: 20%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:blueviolet;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
+nav{
+	display: inline-block;
+	background: blueviolet;
+	padding: 5px;
+	color: #fcc12d;
+}
+nav a {
+		margin-right: 20px;
+		margin-left: 20px;
+		color: white;
+		text-decoration: none;
+		padding: 20.8px;
+
+}
+form p {
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 5px;
+	background: blueviolet;
+color: white;
+text-align: center;
+}
+form{
+	font-family: calibri;
+}
+input.search{
+	width: 100%;
+}
+form input {
+	width: 500px;
+	margin-bottom: 5px;
+}
+form input[type="text"] {
+	border: none;
+	border-bottom: 1px solid blueviolet;
+	outline: none;
+	background: transparent;
+}
+form input[type="submit"] {
+	background: blueviolet;
+	outline: none;
+	border: none;
+	color: white;
+	padding: 5px;
+	width: 500px;
+}
+textarea{
+	outline: none;
+	border: 1px solid blueviolet;
+	background: transparent;
+}
+.footer{
+text-align: center;
+padding: 8px;
+background: blueviolet;
+color: white;
+clear: both;
+}
+.more img {
+	margin-left: 10px;
+	border: 5px solid blueviolet;
+}
+
+.sidebar{
+	width: 42%;
+    float: right;
+}
+
+.postside{
+	width: 50%;
+	float: left;
+	clear: both;
+}
+
+.featured{
+	width: 100%;
+	height: auto;
+	margin-top: 10px; 
+
+}
+.featured .h2{
+	background: blueviolet;
+	color: white;
+	text-align: center;
+	font-family: cursive;
+}
+.featured1{
+	background-position: center top;
+	background-size: cover;background-repeat: no-repeat; 
+	height: 320px;border: 5px solid blueviolet;
+	width: 50%;
+	float: left;
+	margin-bottom: 10px;
+
+}
+.thumbnailh{
+	clear: both;
+	margin-bottom: 10px;
+}
+.body1{
+	width: 50%;
+	float: left;
+}
+.featured2{
+	width: 48%;
+	float: right;
+	border: 3px solid blueviolet;
+}
+.featured2.inner{
+	width: 100%;
+	height: auto;
+}
+.featured2.inner2{
+	width: 100%;
+	height: auto;
+}
+.clearfix{
+	background: blueviolet;
+	clear: both;
+	text-align: center;
+	color: white;
+	margin-bottom: 10px;
+}
+.clearfix span{
+	font-weight: bold;
+	margin: 0px;
+}
+.inner2.t3 .title{
+	font-family: calibri;
+}
+.small4{
+	margin: 0px;
+	margin-left: 0px;
+	background: blueviolet none repeat scroll 0% 0%;
+	color: white;
+	padding: 3px;
+	font-size: 10px;
+	margin-left: 5px;
+}
+.inner2.t3{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 160px;
+	border: 1px solid blueviolet;
+}
+.sidebartitle{
+	font-family: calibri;
+	margin-bottom: 0px;
+	background: blueviolet;
+	color: white;
+	padding: 5px;
+}
+.posttitle{
+	color: black;
+	margin: 0px;
+	margin-bottom: 7px;
+	font-family: calibri;
+}
+.featuredtext{
+	background: rgba(0, 0, 0, 0.69);
+	margin-top: 34%;
+	color: white;
+	padding: 5px;
+}
+.featuredtext:hover{
+	background: rgba(138, 43, 226, 0.7);
+	margin-top: 37.9%%;
+	color: white;
+	padding: 5px;
+}
+.featuredtext h2{
+	margin: 0px;
+margin-bottom: 16.6px;
+border-bottom: 2px solid white;
+font-family: calibri;
+}
+.featuredtext p{
+	margin: 0px;
+}
+.featuredtext2{
+	background: rgba(0, 0, 0, 0.59);
+	color: white;
+	padding: 5px;
+	margin-top: 63px;
+
+}
+
+.featuredtext2:hover{
+	background: rgba(138, 43, 226, 0.7);
+	color: white;
+	padding: 5px;
+	margin-top: 63px;
+
+}
+.featuredtext3{
+	background: rgba(0, 0, 0, 0.59);
+	color: white;
+	padding: 5px;
+	margin-top: 63px;
+
+}
+
+.featuredtext3:hover{
+	background: rgba(138, 43, 226, 0.7);
+	color: white;
+	padding: 5px;
+	margin-top: 63px;
+
+}
+.featuredtext3 h2{
+	margin: 0px;
+font-family: initial;
+border-bottom: 2px solid white;
+}
+.featuredtext3 p{
+	margin: 0px;
+}
+
+.featuredtext2 h2{
+	margin: 0px;
+font-family: calibri;
+border-bottom: 2px solid white;
+}
+.featuredtext2 p{
+	margin: 0px;
+}
+
+.mainbody{
+	width: 100%;
+	clear: both;
+}
+.mainbody.body1{
+	width: 50%;
+	float: left;
+}
+.mainbody.body2{
+	width: 30%;
+	float: right;
+}
+p{
+	font-family: calibri;
+}
+h2{
+	font-family: calibri;
+}
+img{
+	background-position: center top !important;
+}
+.sitetagline{
+	font-family: calibri;
+	margin: 0px;
+	margin-top: 0px;
+	letter-spacing:5px;
+}
+.sitelogo{
+	    height: 40px;
+	    width: 39px;
+	    background: #8a2be2;
+	    margin-top: 5px;
+	    padding: 10px;
+	    border-radius: 100%;
+	    border: 1px solid #8a2be2;
+}
+
+a{
+	text-decoration: none;
+	
+}
+.linktag a{
+	color: white;
+}
+.small1{
+	margin: 0px;
+	margin-left: 0px;
+	background: blueviolet none repeat scroll 0% 0%;
+	color: white;
+	padding: 3px;
+	font-size: 10px;
+	margin-left: 5px;
+}
+.two{
+	background-position: center top !important;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 160px;
+	border: 1px solid blueviolet;
+}
+.innersmall{
+	margin: 0px;
+	margin-left: 0px;
+	background: blueviolet none repeat scroll 0% 0%;
+	color: white;
+	padding: 3px;
+	font-size: 10px;
+	margin-left: 5px;
+}
+
+#hide{
+	display: none;
+}
+#nav{
+	display: none;
+	text-align: center;
+}
+
+/* Post stylying start here */
+
+.nicetitle{
+	margin-top: 10px;
+	text-align: center;
+	background-position: center center !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+}
+.breadcrum{
+	background: #8a2be2a3;
+	padding: 20px;color: white;
+	font-family: calibri;
+	font-size: 30px;
+}
+
+textarea:hover{
+	box-shadow: 1px 1px 5px 1px blueviolet;
+}
+input:hover{
+	box-shadow: 1px 1px 5px 1px blueviolet;
+}

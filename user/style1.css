@@ -1,0 +1,110 @@
+body{
+	background: url(Jellyfish.jpg);
+		background-repeat: no-repeat;
+	
+	background-size: cover;
+}
+.loginbox{
+	width: 320px;
+	height: 420px;
+	background: #020031;
+	color: #fff;
+	top:50%;
+	left:50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 20px;
+}
+@media screen and (max-width:320px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:400px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:500px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:550px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:600px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:650px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:700px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:750px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+@media screen and (max-width:800px){
+.loginbox {width:auto;
+			height:auto;
+			}}
+.avatar{
+	height: 80px;
+	width: 90px;
+	top: -50px;
+	position: absolute;
+	left: calc(50% - 50px);
+	border-radius: 40px;
+}
+input{
+	width:280px;
+	margin-bottom: 20px;
+	font-family: calibri;
+
+}
+form p{
+	margin: 0px;
+	font-family: calibri;
+}
+h2{
+	text-align: center;
+	font-family: calibri;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+input[type="text"], input[type="password"]{
+	background: transparent;
+	outline: none;
+	border: none;
+	border-bottom: 1px solid #fff;
+	color: yellow;
+
+}
+input[type="submit"]{
+	outline: none;
+	border: none;
+	height: 35px;
+	background: yellow;
+
+}
+input[type="submit"]:hover{
+	background: white;
+	color: black;
+}
+.loginbox a{
+	text-decoration: none;
+	color: yellow;
+		font-family: calibri;
+}
+.loginbox a:hover{
+	text-decoration: underline;
+	color: white;
+}
+.loginbox .p1{
+	font-family: calibri;
+	text-align: center;
+}

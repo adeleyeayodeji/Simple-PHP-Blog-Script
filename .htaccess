@@ -1,0 +1,30 @@
+# Turn Rewrite Engine On
+RewriteEngine on
+
+# NC makes the rule non case sensitive
+# L makes this the last rule that this specific condition will match
+# $ in the regular expression makes the matching stop so that "customblah" will not work
+
+# Excluding others
+
+# Rewrite for index.php
+RewriteRule ^/$ index.php [NC,L]
+
+# Rewrite for category.php?id=xxxxx
+ RewriteRule ^category/([0-9a-zA-Z]+)$ include/category.php?category=$1 [NC,L]
+
+# Rewrite for article.php?id=1&title=Title-Goes-Here
+ RewriteRule ^article/([0-9]+)/([0-9a-zA-Z_-]+)/$ post.php?id=$1&title=$2 [NC,L]
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /biggidroid/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /biggidroid/index.php [L]
+</IfModule>
+
+# END WordPress
